@@ -1,0 +1,2 @@
+# ZBarSDK
+Support arm64
